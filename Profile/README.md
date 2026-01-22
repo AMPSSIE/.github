@@ -2,7 +2,7 @@
 
 AMPSSIE is an organisation for the modelling of highly deformable objects, using Material Points, interacting with rigid structures. It contains packages for all separable components which can either be used together or separately for other numerical methods.
 
-Feel free to visit our website [durhamarc.github.io/mpm-netzero/](https://durhamarc.github.io/mpm-netzero/ "https://durhamarc.github.io/mpm-netzero/") for more information and updates to the project.
+Feel free to visit our website [ampssie.github.io/](https://ampssie.github.io/ "https://ampssie.github.io/") for more information and updates to the project.
 
 #### Acknowledgements
 
